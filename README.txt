@@ -27,3 +27,4 @@ Mensagem inicial:
 2 – Falar com atendente  
 3 – Ver localização  
 4 – Horários de funcionamento
+[![Run on Replit](https://replit.com/badge?caption=Run%20on%20Replit)](https://replit.com/github.com/SEU_USUARIO/chatbolt-repl)
