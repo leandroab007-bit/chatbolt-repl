@@ -1,0 +1,12 @@
+{
+  "name": "chatbolt-clinica",
+  "version": "1.0.0",
+  "description": "ChatBot WhatsApp simples para clínica odontológica - ChatBolt",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "venom-bot": "^4.0.0"
+  }
+}
